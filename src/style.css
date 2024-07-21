@@ -262,7 +262,7 @@ a {
 }
 
 .wrapper .logo-pokemon::before {
-  content: 'Pokédex';
+  content: '포켓몬 도감';
   position: absolute;
   left: -5px;
   bottom: -6px;
